@@ -1,5 +1,4 @@
-[
-  {
+{
     "id": 1,
     "name": "Django-Portfolio",
     "image": "https://developerhowto.com/wp-content/uploads/2018/12/phyton-django.jpg",
@@ -7,5 +6,5 @@
     "tags": ["python", "django", "mongodb", "tailwind", "react-query"],
     "source_code": "https://github.com/rajarshisamaddar/Django-Portfolio",
     "demo": "https://github.com/rajarshisamaddar/Django-Portfolio"
-  }
-]
+}
+
